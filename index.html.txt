@@ -4,6 +4,6 @@
 	</head>
 	<body>
 		<section>변경1</section>
-		<header></header>
+		<header>변경2</header>
 	</body>
 </html>
